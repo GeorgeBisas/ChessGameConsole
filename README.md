@@ -25,4 +25,8 @@ The movements are entered by giving the coordinates of the position of the piece
 ![Screenshot_1](https://github.com/GeorgeBisas/ChessGameConsole/assets/90085045/4b1c7be4-4902-48ae-a308-8cb990fe386b)
 
 
+![Screenshot_3](https://github.com/GeorgeBisas/ChessGameConsole/assets/90085045/e6df9ead-0939-4ae2-946b-c61255bd4963)
+
+
+
 
