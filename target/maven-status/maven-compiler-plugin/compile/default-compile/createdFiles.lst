@@ -1,0 +1,17 @@
+com\mycompany\chess\Color.class
+com\mycompany\application\Board_UI.class
+com\mycompany\chess\pieces\Bishop.class
+com\mycompany\application\Chess.class
+com\mycompany\chess\pieces\King.class
+com\mycompany\board\Board.class
+com\mycompany\chess\pieces\Knight.class
+com\mycompany\chess\ChessPosition.class
+com\mycompany\chess\ChessPiece.class
+com\mycompany\chess\pieces\Rook.class
+com\mycompany\board\BoardException.class
+com\mycompany\chess\ChessException.class
+com\mycompany\chess\pieces\Pawn.class
+com\mycompany\chess\pieces\Queen.class
+com\mycompany\board\Location.class
+com\mycompany\board\Piece.class
+com\mycompany\chess\ChessMatch.class
