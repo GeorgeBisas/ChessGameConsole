@@ -1,2 +1,2 @@
 # ChessGameConsole
-A console chess game developed in java
+A console chess game developed in java!
