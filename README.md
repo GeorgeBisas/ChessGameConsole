@@ -11,8 +11,7 @@ Versions after Java 8
 
 To launch project:
 
-Import project
-Launch the project using your IDE or command line
+Import project and Launch the project using your IDE or command line
 
 How to play?
 
