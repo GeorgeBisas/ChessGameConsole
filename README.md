@@ -9,7 +9,7 @@ To run the game you need to have:
 
 Versions after Java 8
 
-launch project:
+To launch project:
 
 Import project
 Launch the project using your IDE or command line
